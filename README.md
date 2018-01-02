@@ -20,3 +20,7 @@ transmitted to the chip as usual. If you don't attach the ceramic resonator it i
 to program the Attiny85 any more.
 
 ![The Schema](schema/schema.jpg)
+
+The result looks like this. It is very small! Now I looking for a nice housing.
+
+![The Schema](schema/finished-circuit.jpg)
