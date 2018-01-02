@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ATTINY85V-10SH)(type Legacy)(uri /Users/micha/Downloads/ATTINY85V-10SH/ATTINY85V-10SH.mod)(options "")(descr ""))
+)
